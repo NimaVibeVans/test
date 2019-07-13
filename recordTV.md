@@ -25,7 +25,7 @@
 ![](https://github.com/NimaVibeVans/test/blob/master/giphy.gif)
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+  <video controls="false" allowfullscreen="false" >
    <source src="test/blob/master/coverr-jumping-shoes-1561724651038.mp4" type="video/mp4">
     </video>
 </figure>
