@@ -23,7 +23,7 @@
 
 ![](http://damien.pobel.fr/images/youtube-video-github.gif)
 ![](https://github.com/NimaVibeVans/test/blob/master/giphy.gif)
-![](../test/blob/master/giphy.gif)
+![](NimaVibeVans/test/blob/master/giphy.gif)
 
 <figure class="video_container">
   <video controls="false" allowfullscreen="false" >
