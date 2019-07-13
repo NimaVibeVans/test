@@ -21,13 +21,4 @@
  | &nbsp; &nbsp; duration | hours | total time to record | *number* | Required | in hours |
  | &nbsp; &nbsp; station channel |  | channel to record | *number* | Required | |
 
-<video width="250" controls="false" autoplay="autoplay">
-
-    <source src="/media/examples/flower.webm"
-            type="video/webm">
-
-    <source src="/media/examples/flower.mp4"
-            type="video/mp4">
-
-    Sorry, your browser doesn't support embedded videos.
-</video>
+![](http://damien.pobel.fr/images/youtube-video-github.gif)
