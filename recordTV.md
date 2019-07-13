@@ -24,8 +24,10 @@
 ![](http://damien.pobel.fr/images/youtube-video-github.gif)
 ![](https://github.com/NimaVibeVans/test/blob/master/giphy.gif)
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/NimaVibeVans/test/blob/master/coverr-jumping-shoes-1561724651038.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+   <source src="https://github.com/NimaVibeVans/test/blob/master/coverr-jumping-shoes-1561724651038.mp4" type="video/mp4">
+    </video>
+</figure>
+
 
